@@ -10,9 +10,14 @@ export default defineConfig({
     vue(),
     vueDevTools(),
   ],
+  base: '/Official-Site-Comics-Onofrietti/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
     },
+  },
+  build: {
+    outDir: 'dist',
+    assetsDir: 'assets',
   },
 })
