@@ -8,7 +8,7 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory('/Official-Site-Comics-Onofrietti/'),
   routes
 })
 
