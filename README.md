@@ -1,29 +1,38 @@
+
+---
+
 # comics-onofrietti
-<img src="cover.png">
+<img src="cover.png" alt="cover">
 
-This template should help get you started developing with Vue 3 in Vite.
+Este template te ayudará a empezar a desarrollar con Vue 3 en Vite.
 
-## Recommended IDE Setup
+## Configuración recomendada de IDE
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (y desactivar Vetur).
 
-## Customize configuration
+## Personalizar la configuración
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+Consulta [Vite Configuration Reference](https://vite.dev/config/).
 
-## Project Setup
+## Configuración del proyecto
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Compilar y recargar en desarrollo
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Compilar y optimizar para producción
 
 ```sh
 npm run build
+```
+
+### Revisa mi página oficial
+https://comics-onofrietti.netlify.app/
+
+---
