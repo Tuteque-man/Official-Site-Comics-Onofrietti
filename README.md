@@ -1,6 +1,4 @@
 
----
-
 # comics-onofrietti
 <img src="cover.png" alt="cover">
 
